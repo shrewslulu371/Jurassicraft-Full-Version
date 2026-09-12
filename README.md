@@ -247,3 +247,6 @@ This repository serves as the official landing page for JurassiCraft. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of JurassiCraft today!**
+
+---
+**Last updated:** 2026-09-12 11:31:50 UTC
