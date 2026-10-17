@@ -249,4 +249,4 @@ This repository serves as the official landing page for JurassiCraft. The softwa
 **Get the most recent version of JurassiCraft today!**
 
 ---
-**Last updated:** 2026-10-17 19:06:13 UTC
+**Last updated:** 2026-10-17 22:02:43 UTC
